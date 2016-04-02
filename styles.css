@@ -75,6 +75,10 @@ for laptop
 		flex: 1;
 	}
 
+	header nav p {
+		display: block;
+	}
+
 	header nav .fa {
 		font-size: 2em;
 	}
