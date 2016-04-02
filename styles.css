@@ -123,9 +123,9 @@ for laptop
 @media only screen and (min-width: 1600px) {
 
 	.hero video {
-		width: 285%;
-		height: 285%;
-	    margin-top: -156%;
+		width: 1600px;
+		height: 1200px;
+	    margin-top: -30%;
 	}
 
 }
