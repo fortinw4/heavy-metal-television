@@ -54,7 +54,7 @@ header nav .fa {
 
 
 /**************************
-for desktop
+for laptop
 **************************/
 
 
@@ -119,4 +119,12 @@ for desktop
 	}
 }
 
+@media only screen and (min-width: 1600px) {
 
+	.hero video {
+		width: 285%;
+	    margin-top: -19%;
+	}
+
+
+}
